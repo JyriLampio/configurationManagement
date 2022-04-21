@@ -19,5 +19,12 @@ f) Optional: put srv/salt/ in git. Make a new module. Clone your repository to a
 
 e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 
+## z) Read and summarise
+
+[Commonmark contributors: Markdown Reference](https://commonmark.org/help/)
+
+- make italic with stars around the text *italic*
+
+
 ## a) Markdown
 

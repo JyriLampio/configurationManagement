@@ -73,3 +73,31 @@ Then I chose to demonstrate a commit with multiple files in one commit.
 I created two example files called example.md and example2.md and wrote some text in them. I also edited the homework file so there should be 4 different files in one commit (log file also). I once again ran the commands stated earlier.
 
 ![gitmultiplefiles](gitmultiplefiles.png) 
+
+Overall I did several different changes to the repository, but I only showed two here.
+
+b) All recorded. In your git repository, show examples of the commands 'git log', 'git diff' and 'git blame'. Explain the results.
+
+git log:
+
+when you type git log, you can see all the commits done to that git repository. 
+- The first info shows the unique hash of the specific commit.
+- The second line is the author so the person who has made the changes.
+- Third line is date and time when the commit was done.
+- The fourth line is the comment wrote in the commit.
+
+![gitlog](gitlog.png)
+
+git diff:
+
+git diff tells you the latest changes made to the file. The example used in the picture is configurationmanagement3.md. Red shows the previous text, green the modified text.
+
+![gitdiff](gitdiff.png)
+
+git blame:
+
+The git blame command can be used to search for log information about a particular file. It shows:
+- who has made the change and what time and date.
+- what changes have been made to a particular file.
+
+![gitblame](gitblame.png)

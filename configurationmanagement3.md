@@ -1,8 +1,9 @@
-## Configuration Management - Homework #3
+# Configuration Management - Homework #3
 
+## Assignment
 z) Read and summarise the article with a few French lines. This z subsection does not require any computer testing.
 
-   [Commonmark contributors: Markdown Reference]https://commonmark.org/help/ (note at least headings with hyphens, paragraph breaks on blank lines, indentation (tab) code, list, link, image.
+[Commonmark contributors: Markdown Reference](https://commonmark.org/help/) (note at least headings with hyphens, paragraph breaks on blank lines, indentation (tab) code, list, link, image.
 
 a) MarkDown. Make a report of this assignment as a MarkDown. It is easiest to make the report in a GitHub repository, so that md-ended files are automatically formatted. A blank line makes the paragraph division, a dash '#' makes the title, an indent marks the code snippet.
 
@@ -17,3 +18,6 @@ d) Formula. Make a new salt mode (formula, module, infra as code). (i.e. a new f
 f) Optional: put srv/salt/ in git. Make a new module. Clone your repository to another machine (or remove srv/salt and restore it by cloning) and continue with that.
 
 e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
+
+## a) Markdown
+

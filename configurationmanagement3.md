@@ -39,6 +39,7 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 Testing code block
 ```
 
+![summaryPicture](summary1.png)
 ---
 ## a) Markdown
 

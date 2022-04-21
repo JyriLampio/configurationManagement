@@ -28,7 +28,7 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 - Create bold font with two stars around the text **bold**
 - Heading1 will be created with one hash button, space and then the text
 - Heading2 will be created with two hash buttons, space and then the text
-- Links can be created by adding the hyperlink text in brackets and then the url inside parentheses. No space in between. [google](www.google.com)
+- Links can be created by adding the hyperlink text in brackets and then the url inside parentheses. No space in between. [google](https://www.google.com)
 - Pictures can be added the same way, except that you put exclamation mark before the brackets.
 - Code blocks can be added with by adding 3 backticks before and after the code.
 - Horisontal rule can be created with 3 hyphens in a row

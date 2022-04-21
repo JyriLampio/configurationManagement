@@ -19,6 +19,7 @@ f) Optional: put srv/salt/ in git. Make a new module. Clone your repository to a
 
 e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 
+---
 ## z) Read and summarise
 
 [Commonmark contributors: Markdown Reference](https://commonmark.org/help/)
@@ -28,12 +29,17 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 - Heading1 will be created with one hash button, space and then the text
 - Heading2 will be created with two hash buttons, space and then the text
 - Links can be created by adding the hyperlink text in brackets and then the url inside parentheses. No space in between. [google](www.google.com)
-- Pictures can be added the same way, except that you put exclamation mark before the brackets
+- Pictures can be added the same way, except that you put exclamation mark before the brackets.
 - Code blocks can be added with by adding 3 backticks before and after the code.
+- Horisontal rule can be created with 3 hyphens in a row
+- Lists can be made by adding one hyphen, space and then the text you want to type.
+
+![pictureOfSummary]summary.png
 ```
 # Code block
 Testing code block
 ```
 
+---
 ## a) Markdown
 

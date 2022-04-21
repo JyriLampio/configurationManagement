@@ -19,7 +19,7 @@ f) Optional: put srv/salt/ in git. Make a new module. Clone your repository to a
 
 e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 
-Source for this assignment can be found [here](https://terokarvinen.com/2021/configuration-management-systems-2022-spring/)
+Source for this assignment can be found [here](https://terokarvinen.com/2021/configuration-management-systems-2022-spring/).
 
 ---
 ## z) Read and summarise

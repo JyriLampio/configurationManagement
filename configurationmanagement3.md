@@ -24,7 +24,16 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 [Commonmark contributors: Markdown Reference](https://commonmark.org/help/)
 
 - make italic with stars around the text *italic*
-
+- Create bold font with two stars around the text **bold**
+- Heading1 will be created with one hash button, space and then the text
+- Heading2 will be created with two hash buttons, space and then the text
+- Links can be created by adding the hyperlink text in brackets and then the url inside parentheses. No space in between. [google](www.google.com)
+- Pictures can be added the same way, except that you put exclamation mark before the brackets
+- Code blocks can be added with by adding 3 backticks before and after the code.
+```
+# Code block
+Testing code block
+```
 
 ## a) Markdown
 

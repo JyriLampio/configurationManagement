@@ -92,7 +92,7 @@ when you type git log, you can see all the commits done to that git repository.
 
 git diff:
 
-git diff tells you the latest changes made to the file. The example used in the picture is configurationmanagement3.md. Red shows the previous text, green the modified text.
+git diff tells you the latest changes made to the files before running the "git add ." change. The example used in the picture is configurationmanagement3.md. Red shows the previous text, green the modified text.
 
 ![gitdiff](gitdiff.png)
 

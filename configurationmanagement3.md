@@ -56,3 +56,15 @@ Then I browsed in to that newly created directory in my computer. I noticed that
 Then I created configurationmanagement3.md file on the directory and started doing homework.
 
 ## b) Pull First. Make several changes to your git repository. Make a few changes where one commit applies to multiple files.
+
+Once I got the assignment's topic, task z and a done, I decided to make a commit to the git repository. I wrote the following in my terminal:
+
+```
+git add . #adds a change in the working directory to the staging area
+git commit #captures a snapshot of the project's currently staged changes
+git pull #pull's and download's content from a remote repository to and update the local repository to match the content. 
+git push #Upload's local repository content to a remote repository
+```
+![gitcommit](gitCommit.png)
+![gitcommands](gitcommands.png)
+

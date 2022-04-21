@@ -34,7 +34,6 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 - Horisontal rule can be created with 3 hyphens in a row
 - Lists can be made by adding one hyphen, space and then the text you want to type.
 
-![pictureOfSummary](summary.png)
 ```
 # Code block
 Testing code block

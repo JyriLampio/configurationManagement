@@ -30,6 +30,7 @@ e) Optional: Own dog food. Adjust one of the machines you are using with Salt.
 - Heading2 will be created with two hash buttons, space and then the text
 - Links can be created by adding the hyperlink text in brackets and then the url inside parentheses. No space in between. [google](https://www.google.com)
 - Pictures can be added the same way, except that you put exclamation mark before the brackets.
+- line of code can be added by putting the code inside backticks
 - Code blocks can be added with by adding 3 backticks before and after the code.
 - Horisontal rule can be created with 3 hyphens in a row
 - Lists can be made by adding one hyphen, space and then the text you want to type.
@@ -43,3 +44,15 @@ Testing code block
 ---
 ## a) Markdown
 
+So the task was to create this report with markdown. I decided to upload this task to github.
+
+I started task by creating a "configurationManagement" repository in github. I made it public and gave it a GNU 2.0 license.
+
+Then I cloned the repository to my computer with a command:
+
+`git clone git@github.com:JyriLampio/configurationManagement.git`
+
+Then I browsed in to that newly created directory in my computer. I noticed that it had clone the license and readme file from github to my computer.
+Then I created configurationmanagement3.md file on the directory and started doing homework.
+
+## b) Pull First. Make several changes to your git repository. Make a few changes where one commit applies to multiple files.

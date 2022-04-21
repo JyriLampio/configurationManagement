@@ -101,3 +101,11 @@ The git blame command can be used to search for log information about a particul
 - what changes have been made to a particular file.
 
 ![gitblame](gitblame.png)
+
+c) Huppis! Make a stupid change to git, don't commit. Destroy bad changes with 'git reset --hard'. Note that there is no undo button for this action.
+
+I created a badfile.txt on my directory. Then i ran git add . command. Once that was done i ran git status command. I saw that there were changes to be committed and the change was the badfile. Then i run the command "git reset --hard" and checked the status afterwards. Now it stated that the working tree was clean so the change was undone.
+
+![gitstatus](gitstatus.png)
+![gitreset](gitreset.png)
+

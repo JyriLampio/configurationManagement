@@ -102,10 +102,28 @@ The git blame command can be used to search for log information about a particul
 
 ![gitblame](gitblame.png)
 
-c) Huppis! Make a stupid change to git, don't commit. Destroy bad changes with 'git reset --hard'. Note that there is no undo button for this action.
+## c) Huppis! Make a stupid change to git, don't commit. Destroy bad changes with 'git reset --hard'. Note that there is no undo button for this action.
 
-I created a badfile.txt on my directory. Then i ran git add . command. Once that was done i ran git status command. I saw that there were changes to be committed and the change was the badfile. Then i run the command "git reset --hard" and checked the status afterwards. Now it stated that the working tree was clean so the change was undone.
+I created a badfile.txt on my directory. Then i ran git add . command. Once that was done i ran git status command. I saw that there were changes to be committed and the change was the badfile. Then i run the command "git reset --hard" and checked the status afterwards. Now it stated that the working tree was clean so the change was undone. Be careful as this command revers back to the latest commit.
 
 ![gitstatus](gitstatus.png)
 ![gitreset](gitreset.png)
 
+
+## d) Formula. Make a new salt mode (formula, module, infra as code).
+
+I decided to create a new salt-state that install's vlc media player, gimp and libreoffice.
+
+I created a new directory called apps in my salt folder on /etc/salt/
+
+Then I created an init.sls file inside it and wrote the following code:
+
+![saltvlc](saltvlc.png)
+
+Then I ran it with:
+
+`sudo salt '*' state.apply apps`
+
+It worked! 
+
+![init](init.png)

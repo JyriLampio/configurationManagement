@@ -78,7 +78,7 @@ I created two example files called example.md and example2.md and wrote some tex
 
 Overall I did several different changes to the repository, but I only showed two here.
 
-b) All recorded. In your git repository, show examples of the commands 'git log', 'git diff' and 'git blame'. Explain the results.
+## b) All recorded. In your git repository, show examples of the commands 'git log', 'git diff' and 'git blame'. Explain the results.
 
 git log:
 

@@ -72,4 +72,4 @@ Then I chose to demonstrate a commit with multiple files in one commit.
 
 I created two example files called example.md and example2.md and wrote some text in them. I also edited the homework file so there should be 4 different files in one commit (log file also). I once again ran the commands stated earlier.
 
-![gitmultiplefiles](gitmultiplefiles.png)
+![gitmultiplefiles](gitmultiplefiles.png) 
